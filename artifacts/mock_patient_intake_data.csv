@@ -1,0 +1,6 @@
+Patient_ID,Submission_Date,First_Name,Last_Name,DOB,Phone_Number,Insurance_Provider,Policy_Number,Eligibility_Status,Flagged_For_Review
+P-1001,2026-10-24 08:15:00,Sarah,Miller,1988-04-12,555-014-9821,Aetna,AET-8839201,Active,FALSE
+P-1002,2026-10-24 08:42:00,James,Wilson,1975-11-03,555-019-3344,Blue Cross Blue Shield,BC-9920184,Active,FALSE
+P-1003,2026-10-24 09:05:00,Maria,Garcia,1992-07-22,555-012-7788,UnitedHealthcare,UHC-0012938,Inactive,TRUE
+P-1004,2026-10-24 09:30:00,Robert,Chen,1964-01-19,555-017-4411,Cigna,CG-4410293,Active,FALSE
+P-1005,2026-10-24 10:12:00,Ashley,Taylor,2001-09-08,555-018-9900,Humana,HUM-7739102,Verification Error,TRUE
